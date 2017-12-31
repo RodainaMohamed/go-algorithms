@@ -1,7 +1,5 @@
 # go-algorithms
 
-## Algorithms included
-
 ### Array Utilities
 
 * Searching
